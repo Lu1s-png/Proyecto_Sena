@@ -1,0 +1,18 @@
+{
+  "name": "project-backup-tools",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Herramientas de respaldo y restauración para entorno local",
+  "main": "src/backup.js",
+  "scripts": {
+    "backup": "node src/backup.js",
+    "restore": "node src/restore.js",
+    "test": "jest --coverage"
+  },
+  "dependencies": {
+    "mongodb": "^6.6.0"
+  },
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}

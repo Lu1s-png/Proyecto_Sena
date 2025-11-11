@@ -1,0 +1,4 @@
+[2025-11-08T03:15:45.848Z] [INFO] Iniciando proceso de respaldo
+[2025-11-08T03:15:46.516Z] [INFO] Espacio libre en disco: 888886607872 bytes
+[2025-11-08T03:15:46.516Z] [INFO] Tamaño estimado de respaldo: 19 bytes
+[2025-11-08T03:15:46.517Z] [ERROR] Fallo en respaldo: Espacio insuficiente: libre=888886607872, requerido(minFree)=9007199254740991
